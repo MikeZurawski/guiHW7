@@ -14,14 +14,6 @@ function main() {
     multiplicand2 = document.getElementById("multiplicand2").value,
     multiplier1 = document.getElementById("multiplier1").value,
     multiplier2 = document.getElementById("multiplier2").value;
-    
-    if ( multiplicand1 > multiplicand2) {
-        alert("The first vertical boundry cannot be greater than the second vertical boundry");
-    }
-    
-    if (multiplier1 > multiplier2) {
-        alert("The first horizontal boundry cannot be greater than the second horizontal boundry");
-    }
 
     // Verfiy the numbers are correct
     console.log(multiplicand1 + ' ' + multiplicand2 + ' ' + multiplier1 + ' ' + multiplier2);
