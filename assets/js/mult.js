@@ -1,3 +1,9 @@
+//File: mult.js
+//4610 Assignment 7: Using jQuery
+//Michael Zurawski, UMass Lowell Computer Science, michael_zurawski@student.uml.edu
+//updated by Mike on November 10, at 6:00 PM
+//Purpose: Page deals with the multiplication table
+//Sources: 
 // Main function does bulk of the work in createing table
 function main() {
 
